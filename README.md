@@ -2,9 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+A simple react application that you can manage your expenses and add new expense with React state.
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Install the node_modules to start the app.\
 
 ### `npm start`
 
